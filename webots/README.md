@@ -27,7 +27,7 @@ controller using your own Python environment.
 5. Whenever you want to a control a robot, make sure it's controller field is set to `<extern>` 
 
 <p align="center">
-  <img src="imgs/example.png" width="400">
+  <img src="/imgs/example.png" width="400">
 </p>
 
 6. Make sure you have opened the WeBots simulation you want. Now, you can execute the robot's control code from the terminal or any IDE of your choice!  
